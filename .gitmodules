@@ -1,0 +1,3 @@
+[submodule "lytictail"]
+	path = lytictail
+	url = https://github.com/lytictail/lytictail.git
